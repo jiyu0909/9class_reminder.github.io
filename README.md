@@ -76,7 +76,7 @@
         </ol>
       </section>
       <!-- 시간표와 급식 -->
-      <div class="lg:col-span-3 grid grid-cols-1 lg:grid-cols-2 gap-6">
+      <div class="lg:col-span-3 grid grid-cols-1 lg:grid-cols-2 gap-5">
         <!-- 왼쪽: 시간표 -->
         <section class="bg-white rounded-2xl shadow p-6">
           <h2 class="text-2xl font-bold text-pink-700 mb-4">2-9 시간표 🤍</h2>
